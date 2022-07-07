@@ -18,7 +18,7 @@ func main() {
 		if nums[i]%2 == 0 {
 			suma += nums[i]
 		} else {
-			continue
+			continue //continue sirve para saltar una iteración
 		}
 
 	}
