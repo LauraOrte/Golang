@@ -11,5 +11,5 @@ var anyActual any
 func main() {
 	anyActual = 2021
 	fmt.Println(anyActual)      //2021
-	fmt.Printf("%T", anyActual) //main.any
+	fmt.Printf("%T", anyActual) //main.any, Para preguntarle el tipo se utiliza el PRINTF.
 }
