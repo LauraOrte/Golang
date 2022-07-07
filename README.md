@@ -1,4 +1,4 @@
 # Golang
 
-#https://go.dev/play
-# go run (nombre del archivo)
+https://go.dev/play
+go run (nombre del archivo)
